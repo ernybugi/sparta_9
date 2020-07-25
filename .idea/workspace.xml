@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fd530d5-2009-4c7d-8d1f-de3564e5804d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eWggOrCctjOnnsaBLfAUMXHkga" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mongo_prac" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="sparta" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week03" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week03/mongo_prac.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fd530d5-2009-4c7d-8d1f-de3564e5804d" name="Default Changelist" comment="" />
+      <created>1594442873649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594442873649</updated>
+      <workItem from="1594442875850" duration="8004000" />
+      <workItem from="1595044686910" duration="106000" />
+      <workItem from="1595044998958" duration="7498000" />
+      <workItem from="1595650830976" duration="12522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1532" y="392" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595665694859">
+      <screen x="-1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="-1532" y="392" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1251.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595658937077" />
+    <state x="-1532" y="392" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1252.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595665694859" />
+    <state width="1210" height="328" key="GridCell.Tab.0.bottom" timestamp="1595669208228">
+      <screen x="0" y="23" width="1252" height="777" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom/0.23.1251.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595658940232" />
+    <state width="1037" height="328" key="GridCell.Tab.0.bottom/0.23.1252.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595668201505" />
+    <state width="1210" height="328" key="GridCell.Tab.0.bottom/0.23.1252.777/-1920.23.1920.1177@0.23.1252.777" timestamp="1595669208228" />
+    <state width="1037" height="328" key="GridCell.Tab.0.bottom/0.23.1878.1177@0.23.1878.1177" timestamp="1595657276156" />
+    <state width="1210" height="328" key="GridCell.Tab.0.center" timestamp="1595669208227">
+      <screen x="0" y="23" width="1252" height="777" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.center/0.23.1251.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595658940231" />
+    <state width="1037" height="328" key="GridCell.Tab.0.center/0.23.1252.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595668201504" />
+    <state width="1210" height="328" key="GridCell.Tab.0.center/0.23.1252.777/-1920.23.1920.1177@0.23.1252.777" timestamp="1595669208227" />
+    <state width="1037" height="328" key="GridCell.Tab.0.center/0.23.1878.1177@0.23.1878.1177" timestamp="1595657276155" />
+    <state width="1210" height="328" key="GridCell.Tab.0.left" timestamp="1595669208226">
+      <screen x="0" y="23" width="1252" height="777" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.left/0.23.1251.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595658940230" />
+    <state width="1037" height="328" key="GridCell.Tab.0.left/0.23.1252.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595668201503" />
+    <state width="1210" height="328" key="GridCell.Tab.0.left/0.23.1252.777/-1920.23.1920.1177@0.23.1252.777" timestamp="1595669208226" />
+    <state width="1037" height="328" key="GridCell.Tab.0.left/0.23.1878.1177@0.23.1878.1177" timestamp="1595657276154" />
+    <state width="1210" height="328" key="GridCell.Tab.0.right" timestamp="1595669208228">
+      <screen x="0" y="23" width="1252" height="777" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.right/0.23.1251.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595658940232" />
+    <state width="1037" height="328" key="GridCell.Tab.0.right/0.23.1252.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595668201505" />
+    <state width="1210" height="328" key="GridCell.Tab.0.right/0.23.1252.777/-1920.23.1920.1177@0.23.1252.777" timestamp="1595669208228" />
+    <state width="1037" height="328" key="GridCell.Tab.0.right/0.23.1878.1177@0.23.1878.1177" timestamp="1595657276155" />
+    <state x="-1337" y="176" key="SettingsEditor" timestamp="1595663583901">
+      <screen x="-1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="-1337" y="176" key="SettingsEditor/0.23.1250.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595051844212" />
+    <state x="-1654" y="356" key="SettingsEditor/0.23.1251.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595658296398" />
+    <state x="-1337" y="176" key="SettingsEditor/0.23.1252.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1595663583901" />
+    <state x="260" y="356" key="SettingsEditor/0.23.1878.1177@0.23.1878.1177" timestamp="1595656977182" />
+    <state x="-900" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1594456168978">
+      <screen x="-1920" y="23" width="1920" height="1177" />
+    </state>
+    <state x="-900" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1250.777/-1920.23.1920.1177@-1920.23.1920.1177" timestamp="1594456168978" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sparta$hello.coverage" NAME="mongo_prac Coverage Results" MODIFIED="1595668201494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week03" />
+  </component>
+</project>
