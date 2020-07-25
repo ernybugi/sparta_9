@@ -8,4 +8,5 @@ target_star = target_movie['star']
 
 
 print('hello')
+print('hello')
 db.movies.update_many({'star': target_star}, {'$set': {'star': 0}})
